@@ -1,0 +1,68 @@
+h1{
+    color: blue;
+}
+h3{
+    color: blue;
+}
+p{
+    font-size: larger;
+}
+#box1{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+#box2{
+    background-image: url("moneyimages2.jpg");
+    height: 150px;
+    width: 300px;
+
+}
+
+body{
+    background-image: url("moneyimages.jpg");
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-attachment: fixed;
+}
+
+#box3{
+    height: 100px;
+    width: 100px;
+    border-color: red;
+    border-style: solid;
+    border-width: 10px;
+}
+
+#box4{
+    width: 100px;
+    height: 100px;
+    border-top: dotted red;
+    border-bottom: solid blue;
+
+}
+
+#circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: red;
+}
+
+#box6{
+    background-color: red;
+    height: 50px;
+    width: 150px;
+    margin-bottom: 100px;
+}
+
+#box7{
+    background-color: red;
+    height: 50px;
+    width: 150px;
+}
+
+u{
+    color: red;
+}
